@@ -1,0 +1,29 @@
+button {
+  width: 220px;
+  height: 70px;
+  font-family: monospace;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: rgb(132, 253, 67);
+  border: none;
+  border-radius: 1.5rem;
+  margin: 5px;
+  cursor: pointer; 
+}
+
+button:hover {
+  background-color: rgba(128, 255, 0, 0.548);
+  color: rgb(88, 47, 85);
+  font-family:fantasy;
+  border: none;
+  display: inline-block;
+}
+
+.button-click {
+  background-color: rgba(79, 77, 77, 0.745);
+}
+
+.button-reset {
+  background-color: rgba(76, 128, 224, 0.359);
+  margin-bottom: 2rem;
+}
