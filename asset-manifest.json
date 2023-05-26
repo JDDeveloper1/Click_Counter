@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Click_Counter/static/css/main.e2164306.css",
+    "main.js": "/Click_Counter/static/js/main.33488927.js",
+    "static/media/logotipo.png": "/Click_Counter/static/media/logotipo.58f45b1dcff6a0f214b3.png",
+    "static/media/click.png": "/Click_Counter/static/media/click.ddfb1cca541a907b95f6.png",
+    "index.html": "/Click_Counter/index.html",
+    "main.e2164306.css.map": "/Click_Counter/static/css/main.e2164306.css.map",
+    "main.33488927.js.map": "/Click_Counter/static/js/main.33488927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2164306.css",
+    "static/js/main.33488927.js"
+  ]
+}
